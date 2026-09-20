@@ -13,7 +13,7 @@ recommended: no direct internet exposure for OT infrastructure, and
 access restricted through a single controlled bastion path.
 
 ## Architecture
-
+![Network architecture diagram](architecture-diagram.png)
 - **Bastion subnet** (10.0.1.0/24) — `vm-it-monitor-bastion`, public IP,
   NSG restricts inbound SSH to a single admin IP
 - **Private/OT subnet** (10.0.2.0/24) — `vm-ot-control`, **no public IP**,
