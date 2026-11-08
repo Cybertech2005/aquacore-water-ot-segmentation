@@ -1,8 +1,12 @@
-# aquacore-water-ot-segmentation
+[# aquacore-water-ot-segmentation
 
 A two-tier Azure Virtual Network lab modeling IT/OT segmentation for a
 water treatment facility — built manually first, then fully automated
 via Azure CLI.
+
+## Walkthrough
+
+[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/8ab71193461d49ac94d51ec4074534c8)
 
 ## Why this exists
 
@@ -112,4 +116,4 @@ deployment would require:
 Always delete the resource group after testing to avoid ongoing charges:
 ```
 az group delete --name rg-aquacore-water-ot --yes
-```
+```](https://www.loom.com/share/8ab71193461d49ac94d51ec4074534c8)
