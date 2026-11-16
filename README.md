@@ -4,9 +4,6 @@ A two-tier Azure Virtual Network lab modeling IT/OT segmentation for a
 water treatment facility — built manually first, then fully automated
 via Azure CLI.
 
-## Walkthrough
-
-[![Click here for walkthrough](https://img.shields.io/badge/▶%20Click%20here%20for%20walkthrough-625DF5?style=for-the-badge&logo=loom&logoColor=white)](https://www.loom.com/share/8ab71193461d49ac94d51ec4074534c8)
 
 ## Why this exists
 
