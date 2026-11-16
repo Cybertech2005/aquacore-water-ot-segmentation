@@ -11,8 +11,9 @@ via Azure CLI.
 ## Why this exists
 
 In July 2026, attackers compromised 30+ Minnesota water utilities by
-exploiting PLCs connected directly to the internet (CISA Advisory
-AA26-097A). This lab demonstrates the actual remediation pattern CISA
+exploiting PLCs connected directly to the internet
+([CISA Advisory AA26-097A](https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a)).
+This lab demonstrates the actual remediation pattern CISA
 recommended: no direct internet exposure for OT infrastructure, and
 access restricted through a single controlled bastion path.
 
